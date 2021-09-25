@@ -2,6 +2,9 @@
 Atmel사의 8비트 RISC 마이크로컨트롤러인 ATmega328p와
 온습도 센서인 dht22을 사용하여 실내 온습도정보를 avr studio에 출력하여 확인함
 
+# 상세 설명
+폴더의 ppt파일 참고
+
 # ATmega328p Data Sheet 
 폴더의 pdf파일 참고
 
